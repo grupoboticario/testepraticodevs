@@ -14,7 +14,7 @@ Claro, fique à vontade para mostrar todo seu talento.
 Qualquer um sendo sql ou nosql.
 
 ### Como devo entregar meu código?
-Pode enviar o link do repositório do github/gitlab público, fazer um pull request ou enviar zip com seu código.
+Você pode enviar o link do repositório do github/gitlab público, fazer um pull request ou enviar um zip com seu código.
 
 
 ## Ficou com alguma dúvida que não está listado aqui? Fique à vontade para abrir uma issue!
