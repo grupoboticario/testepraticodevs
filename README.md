@@ -1,4 +1,4 @@
-# Teste Pratico Devs
+# Teste Prático Devs
 
 Repositório com as instruções práticas para o teste. Fique à vontade para abrir issues com dúvidas.
 
