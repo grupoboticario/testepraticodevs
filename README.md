@@ -16,5 +16,7 @@ Qualquer um sendo sql ou nosql.
 ### Como devo entregar meu código?
 Você pode enviar o link do repositório do github/gitlab público, fazer um pull request ou enviar um zip com seu código.
 
+### Dúvida Sobre a regra de negócio, o cashback é por venda ou por acumulado no final do mês?
+
 
 ## Ficou com alguma dúvida que não está listado aqui? Fique à vontade para abrir uma issue!
